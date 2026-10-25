@@ -1,3 +1,4 @@
+rm -fr vq
 git clone https://github.com/VizQuick-dev/vq.git
 make -C vq
 cp vq/libvq.so .

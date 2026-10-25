@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
     <IsAotCompatible>true</IsAotCompatible>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <Authors>JRBlockkop, AaronoLW</Authors>
     <Description>C# Bindings for the VizQuick library</Description>
     <PackageProjectUrl>https://github.com/VizQuick-dev/VQ.Net</PackageProjectUrl>
